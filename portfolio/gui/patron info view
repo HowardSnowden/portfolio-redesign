@@ -1,0 +1,12 @@
+     <ul id='edit'><label for='barcode'>Barcode</label><input id='barcode' type='text'value='2220982983'></input>
+        <label for id='first name'>First Name</label><input type='text'value='Damien'></input>
+        <label for id='last name'>Last Name</label><input type='text'value='Pyles'></input>
+        <label for id='zipcode'>Zipcode</label><input type='text'value='43229'></input>
+        <label for id='street'>Street</label><input type='text'value='5556 Fakestreet Dr N'></input>
+        <label for id='City'>City</label><input type='text'value='Columbus'></input>
+        <label for id='State'>State</label><input type='text'value='OH'></input>
+        <label for id='Phone 1'>Phone 1</label><input type='text'value='614-555-5525'></input>
+        <label for id='Email'>Email</label><input type='text'value='damien@fakedomain.com'></input>
+        <label for id='Pin'>Pin</label><input type='text'value='****'></input>
+        
+        </ul>

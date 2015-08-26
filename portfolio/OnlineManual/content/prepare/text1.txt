@@ -1,0 +1,4 @@
+<span>Step 2: Create Appropriate Labels</span>
+
+<ul>
+<li>Begin by creating appropriate labels. Place the cursor in the upper left corner of  the open text document and type “Check-Out Receipt CML” followed by the current date in ‘month/day/year’ format.</li><li> Place a space after this heading and type “Due Dates: “ followed by the date 21 days from the current date in ‘month/day/year’ format.</li><li> This is the default due date in the event of system outages. Any further labeling will not be necessary as customer card numbers are easily distinguishable from item barcode numbers.</li> </ul>

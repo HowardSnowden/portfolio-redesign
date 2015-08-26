@@ -1,0 +1,4 @@
+<span>Step 3: Save Document</span>
+
+<ul>
+	<li>Save the document by clicking File->Save As.</li><li> Name the document “Check-Out” and save it to the desktop for easy access.</li> </ul>

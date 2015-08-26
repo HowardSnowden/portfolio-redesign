@@ -1,0 +1,293 @@
+* {
+    margin:0;
+    padding:0;
+    
+}
+
+
+#mainbar{
+    background-color:#03272E;
+    width:950px;
+    height:50px;
+    margin-left:auto;
+    margin-right:auto;
+    border-color:#7390BA;
+    border-style:outset;
+    border-width:5px;
+    position:absolute;
+    left:210px;
+    top:10px;
+    
+}
+
+#wrapper{
+    width:950px;
+    
+    margin-right:auto;
+    margin-left:auto;
+    
+    
+}
+
+#window{
+    width:950px;
+    height:500px;
+    border-color:#7390BA;
+    border-style:outset;
+    border-width:5px;
+    z-index:0;
+    position:absolute;
+    left:210px;
+    top:68px;
+    
+}
+    
+#icontray{
+    width:75px;
+    height:500px;
+    background-color:#166DE9;
+    position:absolute;
+    left:213px;
+    top:72px;
+}
+    
+#icontray img{
+    width:30px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:5px;
+}
+#search{
+  background-color:#335C85;
+    width:400px;
+    
+    height:200px;
+    float:right;
+}
+    
+
+#tab{
+    background-color:#ADADAD;
+    width:875px;
+    position:absolute;
+    top:341px;
+    left:287.5px;
+    
+    height:50px;
+    
+}
+    
+#command{
+    background-color:black;
+    width:873px;
+    
+    height:180px;
+    border-style:outset;
+    border-color:#7390BA;
+    border-width:2px;
+    position:absolute;
+    top:391px;
+    left:287.5px;
+    
+    
+}
+    
+#collapse{
+    float:right;
+    width:400px;
+    background-color:black;
+    clear:both;
+}
+
+nav{
+    
+    margin-top:10px;
+    padding:5px;
+    
+
+}
+
+    
+nav ul {
+    display:inline-table;
+    list-style:none;
+    position:relative;
+    
+    
+}
+    
+nav ul li{
+    float:left;
+    
+}
+    
+nav ul li a{
+    display:block;
+    text-decoration:none;
+    color:white;
+    margin-left:10px;
+    padding:3px;
+    font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size:16px;
+}
+    
+nav ul ul{
+    
+    position:absolute;
+    top:100%;
+    border-style:outset;
+    border-color:#9C9CC4;
+    display:none;
+    background-color:#B4B3D4;
+    z-index:1;
+    padding-left:0px;
+    
+}
+  
+nav ul ul li{
+    position:relative;
+    float:none;
+    top:-5px;
+    
+}
+  .menu ~ ul>li>a:after{
+    content:'\25b6';
+    
+}
+
+
+nav ul ul ul {
+	position: absolute; left:100%; top:-2px;
+    
+}
+
+
+nav ul ul li:hover {
+    background-color:#8c8cb5;
+    
+}
+
+nav ul li ul{
+    width:80%;
+}
+
+
+nav ul ul li a{
+    color:black;
+}
+
+    
+
+.menu:hover{
+    color:yellow;
+}
+
+.edit{
+   position:absolute;
+   top:75px;
+   left:290px;
+    clear:both;
+    border-style:dotted;
+    border-width:1px;
+    width:400px;
+    
+    
+}
+    
+input{
+    display:block;
+    height:15px;
+    margin-left:5px;
+    margin-bottom:5px;
+    
+}
+
+label{
+    float:left;
+    display:inline-block;
+    width:80px;
+     font-family: "Arial Narrow",Arial,sans-serif;
+    font-weight:bold;
+    font-size:12px;
+    background-color:#C9CEF2;
+}
+
+h2{
+color:black;
+    background-color:black;
+    color:#26B3E6;
+    text-align:center;
+    border-style:outset;
+    
+width:90%;
+margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    
+}
+
+    
+#tab span{
+    position:relative;
+    top:20px;
+    border-style:outset;
+    padding:10px;
+    font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size:16px;
+    
+}
+    
+#tab .active{
+    background-color:#03272E;
+    color:white;
+    
+}
+    
+#command textarea{
+    background-color:black;
+    color:#26B3E6;
+    width:95%;
+    height:95%;
+}
+    
+.list{
+    top:75px;
+    position:absolute;
+   left:290px;
+}
+
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+.list th{
+    padding-top:5px;
+    padding-left:10px;
+    text-align:left;
+    text-decoration:underline;
+    font-family: "Arial Narrow",Arial,sans-serif;
+    font-weight:bold;
+    font-size:16px;
+    background-color:#C9CEF2;
+    
+    
+}
+    
+.list td{
+    text-align:left;
+    padding-left:10px;
+    
+}
+    
+#hidden{
+    display:none;
+}
+
+
+
+.project-description {
+    font-size:1.5em;
+}

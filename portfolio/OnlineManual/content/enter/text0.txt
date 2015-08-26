@@ -1,0 +1,12 @@
+
+
+<div id="home">
+<span>Step 1: Open the ILS Check-Out Window</span>
+    <ul>
+	<li>To open the check-out window in Polaris, click Circulation->Check-Out. </li></ul>
+
+<span>Step 2: Enter Customer’s Library Card Number#</span>
+ 	<ul><li>Enter the card number from the receipt.<li> Click enter. If card is invalid, discard receipt and move on to entering the next receipt. </li></ul>
+
+<span>Step 3: Enter Item Numbers</span>
+	<ul><li>Enter each item number. After entering all of the item numbers, press enter.</li> <li>The system will pop up with a prompt asking if a check-out receipt is desired.</li> <li>Click ‘no’ since a receipt is unnecessary. Repeat Step 2-3 until all receipts are entered into the system.</li></ul> </div>

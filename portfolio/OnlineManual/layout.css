@@ -1,0 +1,170 @@
+html, body{
+    margin:0px;
+    padding:0px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    background-color:grey;
+}
+
+#container{
+    height:800px;
+    border-style:double;
+    border-color:black;
+    margin:5px;
+    width:75%;
+    margin-right:auto;
+    margin-left:auto;
+    position:relative;
+    left:-30px;
+}
+
+
+h1, h2, h3, img{
+    clear:both;
+}
+
+.lesson{
+    display:none;
+}
+
+/**CSS block for styling bullets inspired by Zeke Franco: http://zekefranco.me/css/change-color-of-bullets/ **//
+ul li {
+  color:white; 
+	list-style:none; 
+}
+
+ul li:before {
+  color:red; 
+  content:"\2022"; 
+  font-size:1.5em; 
+  padding-right:.25em; 
+  position:relative;
+    top:.1em; 
+}
+/** **********************************************************/
+span{
+    text-decoration:underline;
+}
+h1{
+    margin-top:25px;
+    font-weight:medium;
+    margin-left:50px;
+    margin-bottom:0px;
+    font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+    background-color:blue;
+    text-shadow: 3px 4px 0px rgba(0, 0, 0, 0.19);
+    color:white;
+}
+h2{
+ color:white;
+    text-align:center;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    margin-top:5px;
+    
+}
+#placeholder{
+    width:500px;
+   height:450px;
+    margin-right:20px;
+    
+    padding:5px;
+    clear:both;
+    float:right;
+}
+
+#text{
+    
+    color:white;
+    padding:10px;
+    
+}
+
+hr{
+    color:white;
+    height:10px;
+    background-color:white;
+}
+
+
+#left{
+    height:100%;
+    width:20%;
+    background-color:#260666;
+     float:left;
+    
+}
+
+
+
+#center{
+    height:100%;
+    width:80%;
+    background-color:black;
+    float:left;
+}
+
+
+.navigation{
+    clear:both;
+    text-align:center;
+    padding:10px;
+}
+
+p{
+    color:white;
+}
+
+#home{
+    margin:20px;
+    width:600px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+h3{
+    color:white;
+}
+
+#left h3 {
+    margin-left:100px;
+    margin-top:100px;
+    text-decoration:underline;
+    
+}
+
+#left p{
+    margin-left:50px;
+    padding:2px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    border-style:double;
+    border-color:white;
+}
+
+.external{
+    font-size:0.8em;
+    padding:0px;
+    text-align:center;
+    
+}
+
+.home{
+    text-decoration:none;
+    color:#ab0ac7;
+    float:right;
+    margin-right:10px;
+}
+a{
+text-decoration:none;
+color:inherit;
+}
+
+a:hover{
+    color:#c9bf0a;
+    
+}
+
+
+li{
+    list-style-type:none;
+}

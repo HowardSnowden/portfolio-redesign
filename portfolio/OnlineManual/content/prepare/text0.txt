@@ -1,0 +1,5 @@
+<p>The first step to take care of during an outage is to prepare the Microsoft Notepad document. One document will be used for each transaction so staff do not have to take time to re-name documents for each transaction. </p>
+
+<span>Step 1: Create Document</span>
+<ul>
+<li>Begin by opening a Microsoft Notepad document.</li> <li>CML libraries have Windows 7 installed on all workstations, so this can be accomplished by right-clicking the desktop and selecting New -> Text Document.</li> </ul>
